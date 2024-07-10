@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^22.12.1"
+  }
+}
